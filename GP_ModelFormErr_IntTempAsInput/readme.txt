@@ -1,0 +1,3 @@
+ModelDiscGPmodel_wOneDHeatModel_wXYCoord: obtained with deposition sequence continous, meaning when it prints first layer last filament, next layer first filament is on top of that one.
+
+ModelDiscGPmodel_wOneDHeatModel_wXYCoord_DepoSeqSameStarting: obtained with deposition sequence starting same location, meaning when it prints first layer last filament, next layer first filament is on top of the first filament first layer and so on..
