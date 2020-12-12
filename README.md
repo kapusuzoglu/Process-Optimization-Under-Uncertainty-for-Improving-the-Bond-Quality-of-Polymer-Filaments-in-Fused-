@@ -25,4 +25,4 @@ Kapusuzoglu, Berkcan, et al. "Process Optimization Under Uncertainty for Improvi
     year = {2020},
     month = {08},
     issn = "1087-1357",
-    url = "https://doi.org/10.1115/1.4048073"}
+    url = "[https://doi.org/10.1115/1.4048073](https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/143/2/021007/1086236/Process-Optimization-Under-Uncertainty-for?redirectedFrom=fulltext)"}
